@@ -5,4 +5,4 @@ This project is a hardware accelerator for the [PeSTO](https://www.chessprogramm
 
 
 
-TODO: Add Signal for Completed Evaluation, Use a FIFO instead of BRAM and [En Passant](https://en.wikipedia.org/wiki/En_passant) 
+TODO: Add Signal for Completed Evaluation, and [En Passant](https://en.wikipedia.org/wiki/En_passant) 
